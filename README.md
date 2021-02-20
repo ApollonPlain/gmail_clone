@@ -1,8 +1,8 @@
-### GMAIL CLONE PROJEct
+# GMAIL CLONE PROJECT
 
 ## Techno
 
-React
+ReactJS
 
 # Getting Started with Create React App
 
