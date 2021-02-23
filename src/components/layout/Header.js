@@ -93,6 +93,7 @@ const SearchIconWrapper = styled(SearchIcon)`
 `
 
 const IconsWrapper = styled.div`
+    margin-left: 8px;
     display: grid;
     grid-template-columns: repeat(4, auto);
 
